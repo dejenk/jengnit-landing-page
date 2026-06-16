@@ -1,0 +1,10 @@
+{
+  "name": "jengnit-landing-page",
+  "version": "1.0.0",
+  "description": "Premium skincare landing page",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "vercel --prod"
+  },
+  "license": "MIT"
+}
